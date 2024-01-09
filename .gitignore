@@ -1,3 +1,6 @@
+.vscode/
 nodejs-basics/node_modules/
 
 express-ejs/node_modules/
+
+express-restful/node_modules/
